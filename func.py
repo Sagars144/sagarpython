@@ -32,3 +32,65 @@
 #    print(c2)
 #fam()
 
+#def inst1(inst="technokraft"):
+#    print("inst name is" ,inst )
+#inst1("sab")
+#inst1("sag")
+#inst1("")
+
+#def myname():
+#    first="sagar"
+#    last="sonar"
+#    fullname=first+" "+last
+#    print(fullname)
+#myname()    
+
+#def average():
+    #a=10
+    #b=20
+    # #c=30
+    # avg=(a+b+c)/3
+    # print(avg)
+#average()
+#     
+####  value taken from user
+#def average():
+#    a=int(input("entre a"))
+#    #print(type(a))
+#    b=int(input("entre b"))
+#    c=int(input("entre c"))
+#    avg=(a+b+c)/3
+#    print(avg)
+#average()
+
+# pass function
+#def add():
+#    pass
+#add()
+# 
+#LAMBDA FUNCTION
+# 1]EAST SYNTAX 
+#add=lambda a,b:(a+b)
+#print(add(10,20))
+
+
+#cube=lambda a:(a*a*a)
+#print(cube(2))
+
+#def lst(food):
+#    print(food)
+#fruits=['apple','oragange']
+#lst(fruits)
+
+#def lst(food):
+#    print(food)
+#fruits=('app','org')
+#lst(fruits)
+# add
+# 
+ 
+#def lst(food):    
+#    fruits.append("sugar")
+#    print(food)
+#fruits=["org",'app']
+#lst(fruits)    
